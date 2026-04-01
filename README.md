@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o João Altevir! 👋
 
 ### 🚀 Desenvolvedor(a) Back-end em formação 
 Almejo um dia chegar a Dev Full-Stack!
@@ -34,7 +34,7 @@ Almejo um dia chegar a Dev Full-Stack!
 
 ### 🤝 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-SEU-LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-altevir/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.altevirneto@gmail.com)
 
 ---
